@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![seeback's GitHub stats](https://github-readme-stats-one-chi-85.vercel.app/api?username=I-who-ant)](https://github.com/I-who-ant/github-readme-stats)
+[![seeback's GitHub stats](https://github-readme-stats-one-chi-85.vercel.app/api?username=I-who-ant&hide=contribs,prs,stars&theme=radical)](https://github.com/I-who-ant/github-readme-stats)
