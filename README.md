@@ -12,7 +12,7 @@
 <!-- ticker -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=800&pause=1000&center=true&vCenter=true&random=false&width=900&height=66&lines=Hi+there+%F0%9F%91%8B%2C+I+am+seeback;Welcome+to+My+Profile!;AI+%26+Full+Stack+Developer;Stay+learning%2C+stay+hungry!;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0%EF%BC%8C%E4%BF%9D%E6%8C%81%E9%A5%A5%E6%B8%B4%EF%BC%81)](https://git.io/typing-svg)
 
-## 关于我 | About Me
+## 关于我 
 
 你好👋 , 我是seeback , 一个 对各位编程爱好者的技术 充满兴趣并不断追随所遗留下脚步 的 萌新~😄
 
