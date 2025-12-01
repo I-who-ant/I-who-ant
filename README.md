@@ -38,4 +38,4 @@
 <!--   stats + languages -->
 | GitHub Stats                                                                                                                                        | Most Used Languages                                                                                                                    |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| ![seeback's github stats](https://github-readme-stats.vercel.app/api?username=I-who-ant&show_icons=true&theme=radical&include_all_commits=true) | ![seeback's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=I-who-ant&theme=radical&layout=compact) |
+| ![seeback's github stats](https://github-readme-stats-one-chi-85.vercel.app/api?username=I-who-ant&show_icons=true&theme=radical&include_all_commits=true) | ![seeback's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=I-who-ant&theme=radical&layout=compact) |
